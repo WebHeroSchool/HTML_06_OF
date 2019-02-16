@@ -1,11 +1,7 @@
-p {
-	background: gray;
+* {
+	font-family: "Times New Roman";
 }
 
-header {
-	font-style: bold;
-}
-
-aside {
-	color: green;
+h1 {
+	font-family: Verdana;
 }
